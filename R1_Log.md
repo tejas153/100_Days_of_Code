@@ -1,6 +1,6 @@
 # 100DaysOfCode Log - Round 1 - Tejas S
 
-This is the log of my #100DaysOfCode challenge. Started on Thursday, July 1, 2021
+This is the log of my #100DaysOfCode challenge. Started on Thursday, July 1, 2021.   	
 Also inspired by #66DaysOfData campaign started by Ken Jee
 
 ## Template:
@@ -29,12 +29,17 @@ Also inspired by #66DaysOfData campaign started by Ken Jee
 - Completed Git setup and Jupyter notebook setup.
 
 **Books:**  
-- Whirlwind Tour of Python by Jake VanderPlas
+- [Whirlwind Tour of Python by Jake VanderPlas](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
 	- Completed first 2 chapters from the book.  
 	**Link to Work:** 
 
 - Python for Data Analysis by Wes McKinney  
 	**Link to Work:**
+
+**Articles:**  
+[The beginner’s guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)  
+[An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)  
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/)  
 
 **Thoughts:** Excited to start this journey and cover some basics and best practices.
 
