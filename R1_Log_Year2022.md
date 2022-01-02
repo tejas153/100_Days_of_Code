@@ -13,8 +13,18 @@ Also inspired by [#66DaysOfData](https://www.66daysofdata.com/) campaign started
 
 **Book:** [Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) by Jake VanderPlas
 
-**Link to Work:**
+**Link to Work:** [Github Notebook Link](https://github.com/tejas153/Whirlwind_Tour_of_Python/blob/master/The%20Whirlwind%20Tour%20of%20Python.ipynb)
 
 **Articles:**
 
 **Thoughts:**
+
+### #R1 Day 1: January 1, 2022
+
+**Today's Progress:** 
+- Started with Python basics to refresh and clear my understanding before moving to advance topics.
+- Completed first 4 chapters of the book. Covered Python introduction, basic Python coding guidelines, and basic Python symantics: Variables and Objects.
+
+**Book:** [Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) by Jake VanderPlas
+
+**Link to Work:** [Github Notebook Link](https://github.com/tejas153/Whirlwind_Tour_of_Python/blob/master/The%20Whirlwind%20Tour%20of%20Python.ipynb)

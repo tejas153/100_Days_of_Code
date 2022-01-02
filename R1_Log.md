@@ -10,7 +10,7 @@ Also inspired by [#66DaysOfData](https://www.66daysofdata.com/) campaign started
 - Progress 1
 - Progress 2
 
-**Books:**  
+**Books:** 
 - Whirlwind Tour of Python by Jake VanderPlas
 	- Completed first 2 chapters from the book.  
 	**Link to Work:** 
