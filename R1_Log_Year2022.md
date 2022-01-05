@@ -13,7 +13,7 @@ Also inspired by [#66DaysOfData](https://www.66daysofdata.com/) campaign started
 
 **Book:** [Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) by Jake VanderPlas
 
-**Link to Work:** [Github Notebook Link](https://github.com/tejas153/Whirlwind_Tour_of_Python/blob/master/The%20Whirlwind%20Tour%20of%20Python.ipynb)
+**Link to Work:** [Github Notebook Link](https://github.com/tejas153/Whirlwind_Tour_of_Python/blob/master/The_Whirlwind_Tour_of_Python.ipynb)
 
 **Articles:**
 
@@ -27,7 +27,7 @@ Also inspired by [#66DaysOfData](https://www.66daysofdata.com/) campaign started
 
 **Book:** [Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) by Jake VanderPlas
 
-**Link to Work:** [Github Notebook Link](https://github.com/tejas153/Whirlwind_Tour_of_Python/blob/master/The%20Whirlwind%20Tour%20of%20Python.ipynb)
+**Link to Work:** [Github Notebook Link](https://github.com/tejas153/Whirlwind_Tour_of_Python/blob/master/The_Whirlwind_Tour_of_Python.ipynb)
 
 ### #R1 Day 2: January 2, 2022
 
@@ -36,7 +36,7 @@ Also inspired by [#66DaysOfData](https://www.66daysofdata.com/) campaign started
 
 **Book:** [Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) by Jake VanderPlas
 
-**Link to Work:** [Github Notebook Link](https://github.com/tejas153/Whirlwind_Tour_of_Python/blob/master/The%20Whirlwind%20Tour%20of%20Python.ipynb)
+**Link to Work:** [Github Notebook Link](https://github.com/tejas153/Whirlwind_Tour_of_Python/blob/master/The_Whirlwind_Tour_of_Python.ipynb)
 
 ### #R1 Day 3: January 3, 2022
 
@@ -46,7 +46,7 @@ Also inspired by [#66DaysOfData](https://www.66daysofdata.com/) campaign started
 
 **Book:** [Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) by Jake VanderPlas
 
-**Link to Work:** [Github Notebook Link](https://github.com/tejas153/Whirlwind_Tour_of_Python/blob/master/The%20Whirlwind%20Tour%20of%20Python.ipynb)
+**Link to Work:** [Github Notebook Link](https://github.com/tejas153/Whirlwind_Tour_of_Python/blob/master/The_Whirlwind_Tour_of_Python.ipynb)
 
 ### #R1 Day 4: January 4, 2022
 
@@ -56,4 +56,4 @@ Also inspired by [#66DaysOfData](https://www.66daysofdata.com/) campaign started
 
 **Book:** [Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) by Jake VanderPlas
 
-**Link to Work:** [Github Notebook Link](https://github.com/tejas153/Whirlwind_Tour_of_Python/blob/master/The%20Whirlwind%20Tour%20of%20Python.ipynb)
+**Link to Work:** [Github Notebook Link](https://github.com/tejas153/Whirlwind_Tour_of_Python/blob/master/The_Whirlwind_Tour_of_Python.ipynb)
