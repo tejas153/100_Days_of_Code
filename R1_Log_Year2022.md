@@ -68,3 +68,12 @@ Also inspired by [#66DaysOfData](https://www.66daysofdata.com/) campaign started
 **Book:** [Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) by Jake VanderPlas
 
 **Link to Work:** [Practice Notebook](https://github.com/tejas153/Whirlwind_Tour_of_Python/blob/master/The_Whirlwind_Tour_of_Python.ipynb)
+
+### #R1 Day 6: January 6, 2022
+
+**Today's Progress:** 
+- Along with Python started learning QlikView for building dashboards for my work. Learned about Associative engine in Qlik, synthetic keys and how they can be bad for data model. Use of composite keys and link table for building star or snoflake data model.
+
+**Course:** [The Complete QlikView Boot Camp](https://www.udemy.com/course/the-complete-qlikview-boot-camp/) by Paul Scotchford
+
+**Link to Work:** 
